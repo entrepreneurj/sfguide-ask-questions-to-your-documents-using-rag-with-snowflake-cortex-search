@@ -8,5 +8,5 @@ This guide will leverage Cortex Search, a fully managed service that automatical
 
 ## Step-By-Step Guide
 
-For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [QuickStart Guide](https://quickstarts.snowflake.com/guide/ask-questions-to-your-documents-using-rag-with-snowflake-cortex-search/index.html).
+For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [QuickStart Guide](https://www.snowflake.com/en/developers/guides/ask-questions-to-your-own-documents-with-snowflake-cortex-search/).
 
